@@ -40,3 +40,4 @@
 /Users/emrah/Desktop/çalışmalar/C#/WeddingPhotosApiB2/obj/Debug/net9.0/ref/WeddingPhotosApiB2.dll
 /Users/emrah/Desktop/çalışmalar/C#/WeddingPhotosApiB2/bin/Debug/net9.0/AWSSDK.Core.dll
 /Users/emrah/Desktop/çalışmalar/C#/WeddingPhotosApiB2/bin/Debug/net9.0/AWSSDK.S3.dll
+/Users/emrah/Desktop/çalışmalar/C#/WeddingPhotosApiB2/obj/Debug/net9.0/WeddingPhotosApiB2.sourcelink.json
